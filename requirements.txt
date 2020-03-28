@@ -1,0 +1,4 @@
+tensorlayer==1.11.0
+tensorflow==1.12
+keras==2.2.4
+nibabel==2.3.3
